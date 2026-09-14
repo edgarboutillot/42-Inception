@@ -1,0 +1,1 @@
+The Inception project serves as an introduction to the world of system and network administration. The primary objective is to create a Docker-based virtual machine capable of deploying various web services, including an Nginx web server, a WordPress server, and a MySQL database.
